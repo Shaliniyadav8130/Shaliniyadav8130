@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 </a>
 <a href="https://www.instagram.com/shellyy_yadavv/">
-       <img src="https://img.shields.io/badge/Instagram-Pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+       <img src="https://img.shields.io/badge/Instagram-babypink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
 </a>
