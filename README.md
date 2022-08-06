@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaliniyadav8130"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shaliniyadav8130&show_icons=true"/>
