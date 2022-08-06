@@ -17,8 +17,10 @@ You can click the Preview link to take a look at your changes.
   </a>
 </a>
 <a href="https://www.linkedin.com/in/shalini-yadav-64b69b225">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
 </a>
 <a href="https://www.instagram.com/shellyy_yadavv/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+       <img src="https://img.shields.io/badge/Instagram-Pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+
 </a>
