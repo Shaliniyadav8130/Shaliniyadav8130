@@ -8,6 +8,8 @@
 Shaliniyadav8130/Shaliniyadav8130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div>
+<h3> Lanaguages Known</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -20,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaliniyadav8130"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shaliniyadav8130&show_icons=true"/>
