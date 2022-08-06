@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="">
 <a href="https://twitter.com/Shalini39615839">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </a>
 <a href="https://www.linkedin.com/in/shalini-yadav-64b69b225">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
