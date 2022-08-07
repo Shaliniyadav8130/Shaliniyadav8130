@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </div>
-
+<section style="margin:20px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaliniyadav8130"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shaliniyadav8130&show_icons=true"/>   
-
+</section>
 <a href="">
 <a href="https://twitter.com/Shalini39615839">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
