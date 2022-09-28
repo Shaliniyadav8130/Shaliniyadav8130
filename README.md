@@ -6,8 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-   👀 I am a Front end web developer<br/>
-    🌱 I’m currently learning React js<br/>
+   👀 I am a Front end developer<br/>
+    🌱 Currently I am learning AI/ML<br/>
+    🌱 Currently I am a programming enthusiastic<br/>
     💞️ I’m looking to collaborate on open source projects.<br/>
      📫 email: shaliniyadav0203@gmail.com
 </h2> 
