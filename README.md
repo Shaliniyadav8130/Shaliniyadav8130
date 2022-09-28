@@ -8,7 +8,7 @@
 <h2>
    👀 I am a Front end developer<br/>
     🌱 Currently I am learning AI/ML<br/>
-    🌱 Currently I am a programming enthusiastic<br/>
+    🌱 I am a programming enthusiastic<br/>
     💞️ I’m looking to collaborate on open source projects.<br/>
      📫 email: shaliniyadav0203@gmail.com
 </h2> 
