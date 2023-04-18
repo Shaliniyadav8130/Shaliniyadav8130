@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-   👀 I am a Data Analyst<br/>
-    🌱 Currently I am learning AI/ML<br/>
+   👀 I am a Data Scientist<br/>
+    🌱 Currently I am working on the projects of AI/ML<br/>
     🌱 I am a programming enthusiastic<br/>
     💞️ I’m looking to collaborate on open source projects.<br/>
      📫 email: shaliniyadav0203@gmail.com
