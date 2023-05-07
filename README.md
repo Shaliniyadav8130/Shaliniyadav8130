@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/TD1hBarZhAwZhcGHEQ/giphy.gif" width="120px"/>
 </div>
 <h1 id="intro" align="center">
-  hey there,I’m Shalini yadav<br/>  
+  Hey there,I’m Shalini yadav<br/>  
 
 </h1>
 <h2>
