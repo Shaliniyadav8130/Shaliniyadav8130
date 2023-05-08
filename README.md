@@ -8,7 +8,7 @@
 <h2>
    👀 I am a Android & IOS app developer<br/>
     🌱 Currently I am working on the projects of app development<br/>
-    🌱 I am a programming enthusiastic<br/>
+    🌱 Ask me about App development and web development<br/>
     💞️ I’m looking to collaborate on open source projects.<br/>
      📫 email: shaliniyadav0203@gmail.com
 </h2> 
