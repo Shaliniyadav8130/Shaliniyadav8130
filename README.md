@@ -6,8 +6,8 @@
 
 </h1>
 <h2>
-   👀 I am a Data Scientist and App developer<br/>
-    🌱 Currently I am working on the projects of AI/ML<br/>
+   👀 I am a Android & IOS app developer<br/>
+    🌱 Currently I am working on the projects of app development<br/>
     🌱 I am a programming enthusiastic<br/>
     💞️ I’m looking to collaborate on open source projects.<br/>
      📫 email: shaliniyadav0203@gmail.com
